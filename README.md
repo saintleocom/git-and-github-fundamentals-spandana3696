@@ -1,6 +1,15 @@
 
-#introduction
+# :wave: Introduction
+## About me
 
-##Hi everyone
-##i am interested in learning new technologies
-##i am curruntly focussing about getting know more about github and virtual studio
+Hi everyone
+I am interested in learning new technologies
+I am curruntly focussing about getting know more about github and virtual studio
+
+## Hobbies
+
+Reading books
+Playing tennis
+
+
+
