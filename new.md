@@ -2,13 +2,13 @@
 
 - I learned about using github, different styles used in markdown file and little bit about virtual studio
 ### example
- - Some basic Git commands 
+ 1. Some basic Git commands 
 
- git status
- git add
- git commit
+ * git status
+ * git add
+ * git commit
 
- - some markdown styles
+ 2. some markdown styles
 
  * for links ()
   * (https://docs.github.com/)
